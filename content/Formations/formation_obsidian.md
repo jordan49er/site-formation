@@ -1,4 +1,4 @@
-# Tutoriel Canva pour Débutants
+# Tutoriel Canva
 
 ## 1. Introduction à Canva
 
