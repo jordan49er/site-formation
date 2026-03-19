@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Canva"
-  pageRef = "formation_obsidian.md"
+  pageRef = "formation_canva.md"
   weight = 10
 
 #[[main]]
