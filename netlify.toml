@@ -1,9 +1,9 @@
-[build]\
-command = "git submodule update --init --recursive && hugo --gc --minify"\
-publish = "public"\
-\
-[build.environment]\
-HUGO_VERSION = "0.139.3" # Remplacez par votre version (hugo version)\
-\
-[context.production.environment]\
+[build]
+command = "git submodule update --init --recursive && hugo --gc --minify"
+publish = "public"
+
+[build.environment]
+HUGO_VERSION = "0.139.3" # Remplacez par votre version (hugo version)
+
+[context.production.environment]
 HUGO_ENV = "production"
